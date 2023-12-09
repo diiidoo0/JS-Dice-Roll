@@ -38,3 +38,11 @@ body {
     border: none;
     border-radius: 3%;
 }
+
+.roll:hover {
+    opacity: 0.9;
+}
+
+.roll:active {
+    opacity: 0.8;
+}
